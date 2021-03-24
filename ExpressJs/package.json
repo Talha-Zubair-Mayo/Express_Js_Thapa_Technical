@@ -1,0 +1,24 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "Express js practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Talha-Zubair-Mayo/Express_Js_Thapa_Technical.git"
+  },
+  "author": "TaLha ZuBair Mayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Talha-Zubair-Mayo/Express_Js_Thapa_Technical/issues"
+  },
+  "homepage": "https://github.com/Talha-Zubair-Mayo/Express_Js_Thapa_Technical#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "nodemon": "^2.0.7"
+  }
+}
